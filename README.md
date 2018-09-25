@@ -1,3 +1,3 @@
 # FasterRCNN
 
-This is a tensorflow implementation of Faster RCNN
+This is a tensorflow implementation of Faster RCNN.
